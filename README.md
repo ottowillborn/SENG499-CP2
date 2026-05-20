@@ -1,1 +1,1 @@
-SENG499 proj
+SENG499 project
